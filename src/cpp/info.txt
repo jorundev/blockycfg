@@ -1,0 +1,2 @@
+This code was taken and modified from the Cutter project (https://cutter.re/, https://github.com/rizinorg/cutter)
+It it subject to the terms of the GNU General Public License v3.0
